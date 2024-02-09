@@ -1,2 +1,1 @@
-# open-data-initiative.github.io
-The website for the Open Data Initiative
+# Open Data Initiative -- Site Repository

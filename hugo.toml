@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Open Data Initiative'
+theme = 'archie'
+copyright = "Open Data Initiative"
+enableGitInfo = true
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/open-data-initiative"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
